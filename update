@@ -3,3 +3,5 @@
 git add $0
 git commit -m $0
 git push
+rm ./$0
+leetcode show -q H -c -gx -l python3
